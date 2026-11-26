@@ -1,11 +1,16 @@
 # Group9_Project2
 
-## Topic
+### Topic:    
 **Google SynthID: Spotting AI with Invisible Watermarks**
 
+### Youtube Link:   
 [Youtube Link]()
 
-## Summary
+### Summary:    
+//summary
+
+### Discussion Question: 
+//discussion question
 
 
 ## Team members
@@ -14,6 +19,7 @@
 | Muhammed Awwal Damilare Alimi | 143272250 |
 | Keyun Fu | 113941264 |
 | Indra Nara Rudianto | 108373267 |
+
 
 ## Team Contributions
 - Muhammed Awwal Damilare Alimi:  
@@ -24,3 +30,7 @@
 
 - Indra Nara Rudianto:  
   - 
+
+
+## Sources:
+//sources
